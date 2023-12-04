@@ -1,0 +1,36 @@
+
+
+/* Importe fontes do Google Fonts para estilização mais elegante, se preferir */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,700;1,400&display=swap');
+
+/* Estilização para o footer */
+footer {
+   background-color:#050DEB;
+  color: #fff;
+ padding-top: 10px;
+  height: 40px;
+  
+}
+
+.container {
+  width: 30%;
+  margin: 0 auto;
+  
+}
+
+.text-center {
+  text-align: center;
+}
+
+.brand-name {
+  font-weight: 700;
+  color: #ffcc00; /* ou a cor desejada para o nome */
+  /* Use a fonte que preferir */
+  font-family: 'Roboto', sans-serif;
+}
+
+a.nav-link:hover{
+    color:rgba(0, 0, 255, 0.482);
+}
+
+
